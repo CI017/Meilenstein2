@@ -1,0 +1,16 @@
+---
+title: "Markdown im Projekt"
+author: "Celine Imensek"
+date: "8 11 2021"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r}
+library(tidyverse)
+library(knitr)
+```
+
+![](C:/Users/celin/OneDrive/Bilder/Bodensee/20170730_191738.jpg)
+
